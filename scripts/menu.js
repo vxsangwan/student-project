@@ -1,4 +1,4 @@
-import "../styles/style.scss";
+import "../scss/style.scss";
 
 document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("menu").innerHTML = `
